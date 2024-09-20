@@ -21,7 +21,7 @@ You can view a live demo of the project [here](https://main--too-doo-list-app-re
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/react-cassette-audio-player.git
+    git clone https://github.com/harryjcpy/To-Do-React.git
     ```
 
 2. **Navigate to the project directory:**
