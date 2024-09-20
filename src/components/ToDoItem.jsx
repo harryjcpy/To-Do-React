@@ -17,7 +17,7 @@ const TodoItem = ({todoName, todoDate}) => {
                     </div>
                     <div className="col-2">
                         <button type="button" className="btn btn-danger kg-button" onClick = {() => deleteItem(todoName)}>
-                        <MdDelete />
+                        <MdDelete size={25}/>
                         </button>
                     </div>
                 </div>

@@ -27,7 +27,7 @@ function AddToDo() {
                     </div>
                     <div className="col-2">
                         <button  className="btn btn-success kg-button">
-                        <BiMessageAdd />
+                        <BiMessageAdd size={25} />
                         </button>
                     </div>
                 </form>
