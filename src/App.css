@@ -14,3 +14,11 @@ input {
 body {
     background-color: rgb(103, 180, 113);
 }
+
+.to-do-text {
+    font-size: 25px;
+}
+
+.to-do-date {
+    font-size: 25px;
+}

@@ -9,10 +9,10 @@ const TodoItem = ({todoName, todoDate}) => {
         <>
             <div className="container text-center">
                 <div className="row kg-row">
-                    <div className="col-6">
+                    <div className="col-6 to-do-text">
                         {todoName}
                     </div>
-                    <div className="col-4">
+                    <div className="col-4 to-do-date">
                         {todoDate}
                     </div>
                     <div className="col-2">
