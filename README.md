@@ -26,7 +26,7 @@ You can view a live demo of the project [here](https://main--too-doo-list-app-re
 
 2. **Navigate to the project directory:**
     ```bash
-    cd To-Do List
+    cd To-Do-React
     ```
 
 3. **Install dependencies:**
