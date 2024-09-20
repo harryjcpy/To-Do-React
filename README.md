@@ -49,7 +49,7 @@ The app will run locally on [http://localhost:3000](http://localhost:3000).
 
 ## Technologies Used
 1. **React Hooks**:
-   1.**useReducer**: Utilized for managing the complex state logic of tasks (e.g., adding, deleting, and updating tasks). This allows for cleaner and more maintainable code by centralizing state management.
-   2.**useContext**: This hook is used to share state across different components, eliminating the need to pass props down multiple levels.
+   -**useReducer**: Utilized for managing the complex state logic of tasks (e.g., adding, deleting, and updating tasks). This allows for cleaner and more maintainable code by centralizing state management.
+   -**useContext**: This hook is used to share state across different components, eliminating the need to pass props down multiple levels.
 2. **Bootstrap**: This project makes use of Bootstrap components to build a responsive and visually appealing UI. Buttons, forms, and layout grids are styled using Bootstrap classes, providing a consistent look and feel across different devices.
 3. **React Icons**: Icons for actions like deleting tasks are rendered using react-icons for a professional touch and to enhance user experience.
